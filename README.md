@@ -9,3 +9,4 @@ My name is Luiz Eduardo, I'm from Brazil, I'm a Software Engineering student, pa
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-eduardo-mello-dos-reis-86422a188/)](https://www.linkedin.com/in/luiz-eduardo-mello-dos-reis-86422a188/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chilled_dev/)](https://www.instagram.com/chilled_dev/)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?luizeduardomr=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
