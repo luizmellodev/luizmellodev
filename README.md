@@ -2,7 +2,7 @@
 My name is Luiz Eduardo, I'm from Brazil, I'm a Software Engineering student, passionate about programming, technology, minimalism, coffee, design, UX and coffee! ☕💜
 
 - 🔭 I’m currently working on [DaVInt - Data Visualization](https://www.inf.pucrs.br/davint/) as Back-end Developer.
-- 🌱 I’m currently learning JavaScript (with ReactJS, React-Native, NodeJS and Redux) and Python!
+- 🌱 I’m currently learning Python and JavaScript (with ReactJS, React-Native, NodeJS and Redux)
 - 💬 About me? See my personal [website](https://luizeduardomr.github.io/)
 - ⚡ Curious fact: I have an Instagram account to share programming knowledge! Follow me if you want 😁 [@chilled_dev](https://www.instagram.com/chilled_dev/) (Portuguese content)
 
