@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Luiz Eduardo, I'm from Brazil, I'm a Software Engineering student, passionate about programming, technology, minimalism, coffee, design, UX and coffee! ☕💜
+My name is Luiz Eduardo, I'm a Software Engineering student from Brazil, passionate about programming, technology, minimalism, coffee, design, UX and coffee! ☕💜
 
 - 🔭 I’m currently working on [DaVInt - Data Visualization](https://www.inf.pucrs.br/davint/) as Back-end Developer.
 - 🌱 I’m currently learning Python and JavaScript (with ReactJS, React-Native, NodeJS and Redux)
