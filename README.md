@@ -11,6 +11,5 @@ My name is Luiz Eduardo, I'm a Software Engineering student from Brazil, passion
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luizeduardomr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardomr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizeduardomr/)](https://www.linkedin.com/in/luizeduardomr/) <a href="https://dev.to/luizeduardomr">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizeduardomr/)](https://www.linkedin.com/in/luizeduardomr/) </a> [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chilled_dev/)](https://www.instagram.com/chilled_dev/) <a href="https://dev.to/luizeduardomr">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Luiz Eduardo's DEV Profile" height="30" width="30">
-</a> [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chilled_dev/)](https://www.instagram.com/chilled_dev/)
