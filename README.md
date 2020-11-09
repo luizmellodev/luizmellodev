@@ -11,3 +11,4 @@ My name is Luiz Eduardo, I'm a Software Engineering student from Brazil, passion
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luizeduardomr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardomr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</br> ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
