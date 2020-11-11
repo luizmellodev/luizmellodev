@@ -7,8 +7,6 @@ My name is Luiz Eduardo, I'm a Software Engineering student from Brazil, passion
 - 💬 About me? See my personal [website](https://luizeduardomr.github.io/)
 - ⚡ Curious fact: I have an Instagram account to share programming knowledge! Follow me if you want 😁 [@chilled_dev](https://www.instagram.com/chilled_dev/) (Portuguese content)
 
-
-</br> ![visitors](https://visitor-badge.glitch.me/badge?page_id=luizeduardomr.readme)
 <details><summary><b>GitHub Stats</b></summary>
   
   ![](https://github-readme-stats.vercel.app/api?username=luizeduardomr&show_icons=true&hide=contribs)
@@ -26,3 +24,5 @@ My name is Luiz Eduardo, I'm a Software Engineering student from Brazil, passion
   - [Dribble](https://dribbble.com/luizreis)
   - [UX Instagram](https://www.instagram.com/ux.luiz/)
   </details>
+  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=luizeduardomr.readme)
