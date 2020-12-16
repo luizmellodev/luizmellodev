@@ -22,7 +22,7 @@ My name is Luiz Eduardo, I'm a Software Engineering student from Brazil, passion
   - [Rocketseat](https://app.rocketseat.com.br/me/luizeduardomr)
   - [Dev.to](https://dev.to/luizeduardomr)
   - [Dribble](https://dribbble.com/luizreis)
-  - [UX Instagram](https://www.instagram.com/ux.luiz/)
+  - [Chilled Dev](https://www.instagram.com/chilled_dev/)
   </details>
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=luizeduardomr.readme)
