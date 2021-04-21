@@ -1,4 +1,6 @@
 # Hey! 👋
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
 My name is Luiz Eduardo, I'm a Software Engineering student from Brazil, passionate about programming, technology, minimalism, coffee, design, UX and coffee! ☕💜
 
 - 🔭 I’m currently working on [Apple Developer Academy | PUCRS](http://www.bepid.com.br/poa/) as iOS Developer scholarship.
