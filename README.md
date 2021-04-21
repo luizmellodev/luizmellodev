@@ -6,7 +6,6 @@ My name is Luiz Eduardo, I'm a Software Engineering student from Brazil, passion
 - 🔭 I’m currently working on [Apple Developer Academy | PUCRS](http://www.bepid.com.br/poa/) as iOS Developer scholarship.
 - 🌱 I’m currently learning Swift and UX/UI Design!
 - :ballot_box_with_check: My goal is to become a developer capable of solving real problems (=
-- 💬 About me? See my personal [website](https://luizeduardomr.github.io/) (outdated in fact)
 - ⚡ Curious fact: I have an Instagram account to share programming knowledge! Follow me if you want 😁 [@luizmello.dev](https://www.instagram.com/luizmello.dev/) (Portuguese content)
 
 <details><summary><b>GitHub Stats</b></summary>
