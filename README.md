@@ -1,5 +1,5 @@
 # Hey! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-![Snake animation](https://github.com/luizeduardomr/luizeduardomr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 My name is Luiz Eduardo, I'm a Software Engineering student from Brazil, passionate about programming, technology, minimalism, coffee, design, UX and coffee! ☕💜
 
