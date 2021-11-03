@@ -26,7 +26,7 @@ My name is Luiz Eduardo, I'm a Software Engineering student from Brazil, passion
 
 <details><summary><b>Contact</b></summary>
   
-  - [LinkedIn](https://www.linkedin.com/in/luizeduardomr/)
+  - [LinkedIn](https://www.linkedin.com/in/luizmellodev/)
   - [Gmail](mailto:luiz.reis@edu.pucrs.br)
   - [Discord](https://discord.bio/p/luiz)
   - [Rocketseat](https://app.rocketseat.com.br/me/luizeduardomr)
