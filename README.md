@@ -19,8 +19,8 @@ My name is Luiz Eduardo, I'm a Software Engineering student from Brazil, passion
 
 <details><summary><b>GitHub Stats</b></summary>
   
-  ![](https://github-readme-stats.vercel.app/api?username=luizeduardomr&show_icons=true&hide=contribs)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardomr&layout=compact&hide=Tcl)
+  ![](https://github-readme-stats.vercel.app/api?username=luizmellodev&show_icons=true&hide=contribs)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmellodev&layout=compact&hide=Tcl)
 </details>
 
 
