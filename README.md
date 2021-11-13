@@ -12,7 +12,7 @@ My name is Luiz Eduardo, I'm a Software Engineering student from Brazil, passion
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
-  <a href="https://www.linkedin.com/in/luizeduardomr/">
+  <a href="https://www.linkedin.com/in/luizmellodev/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
