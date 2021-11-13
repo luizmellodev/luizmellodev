@@ -35,4 +35,4 @@ My name is Luiz Eduardo, I'm a Software Engineering student from Brazil, passion
   - [Luiz Mello](https://www.instagram.com/luizmello.dev/)
   </details>
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=luizeduardomr.readme)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=luizmellodev.readme)
