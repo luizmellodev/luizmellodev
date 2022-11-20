@@ -26,7 +26,7 @@ My name is Luiz Eduardo, I'm an iOS Software Engineer. I'm love programming, tec
   
   - [LinkedIn](https://www.linkedin.com/in/luizmellodev/)
   - [Gmail](mailto:contato@luizmello.dev)
-  - [Discord](https://discord.bio/p/luiz)
+  - [Discord](https://discords.com/bio/p/luiz)
   - [Rocketseat](https://app.rocketseat.com.br/me/luizeduardomr)
   - [Dev.to](https://dev.to/luizmellodev)
   - [Dribble](https://dribbble.com/luizreis)
