@@ -1,5 +1,4 @@
-![banner](https://user-images.githubusercontent.com/49352785/210124388-01e0887e-3712-4d85-aab6-e4374eab12f1.png)
-
+![My personal banner](https://user-images.githubusercontent.com/49352785/210124497-118a40bd-2513-4ea5-b0dc-f494474acd85.png)
 
 # Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 My name is Luiz Eduardo, I'm an iOS Software Engineer. I'm love programming, technology, minimalism, UX/UI Design and coffeee ☕💜
