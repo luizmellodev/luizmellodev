@@ -16,15 +16,7 @@ Besides iOS development, I work with Flutter in parallel projects using FlutterF
 - :ballot_box_with_check: My goal is to become a developer capable of solving real problems (=
 - ⚡ Curious fact: I have an Instagram account to share programming knowledge! Follow me if you want 😁 [@luizmello.dev](https://www.instagram.com/luizmello.dev/) (Portuguese content)
 
-  <a href="https://instagram.com/luizmello.dev">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/luizmellodev/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-
+</br>
 <details><summary><b>GitHub Stats</b></summary>
   
   ![](https://github-readme-stats.vercel.app/api?username=luizmellodev&show_icons=true&hide=contribs)
