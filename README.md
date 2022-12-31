@@ -1,8 +1,19 @@
-# Hey!
-My name is Luiz Eduardo, I'm an iOS Software Engineer. I'm love programming, technology, minimalism, UX/UI Design and coffeee ☕💜
+![banner](https://user-images.githubusercontent.com/49352785/210124388-01e0887e-3712-4d85-aab6-e4374eab12f1.png)
 
-- 🔭 I’m currently working on [Developer Academy | PUCRS](https://developeracademy.eldorado.org.br/poa/) as iOS Developer.
-- 🌱 I’m currently learning Vapor with SwiftUI and UX/UI Design!
+
+# Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+My name is Luiz Eduardo, I'm an iOS Software Engineer. I'm love programming, technology, minimalism, UX/UI Design and coffeee ☕💜
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+Besides iOS development, I work with Flutter in parallel projects using FlutterFlow and some projects in Python or websites in HTML/CSS + some innovative tool =)
+
+[![Linkedin Badge](https://img.shields.io/badge/-luizmellodev-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/luizmellodev/)
+[![Gmail Badge](https://img.shields.io/badge/-contato@luizmello.dev-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:contato@luizmello.dev)
+[![Instagram Badge](https://img.shields.io/badge/-@luizmello.dev-white?style=plastic-square&logo=Instagram&logoColor=purple&link=mailto:mailharshkhatri@gmail.com)](mailto:contato@luizmello.dev)
+
+
+
+- 🔭 I’m currently working on [Poatek](https://developeracademy.eldorado.org.br/poa/) as iOS Developer Intern.
 - :ballot_box_with_check: My goal is to become a developer capable of solving real problems (=
 - ⚡ Curious fact: I have an Instagram account to share programming knowledge! Follow me if you want 😁 [@luizmello.dev](https://www.instagram.com/luizmello.dev/) (Portuguese content)
 
