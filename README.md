@@ -12,7 +12,7 @@ Besides iOS development, I work with Flutter in parallel projects using FlutterF
 
 
 
-- 🔭 I’m currently working on [Poatek](https://developeracademy.eldorado.org.br/poa/) as iOS Developer Intern.
+- 🔭 I’m currently working on [Poatek]([https://developeracademy.eldorado.org.br/poa/](https://poatek.com/)) as iOS Developer Intern.
 - :ballot_box_with_check: My goal is to become a developer capable of solving real problems (=
 - ⚡ Curious fact: I have an Instagram account to share programming knowledge! Follow me if you want 😁 [@luizmello.dev](https://www.instagram.com/luizmello.dev/) (Portuguese content)
 
