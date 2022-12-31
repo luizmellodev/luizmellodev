@@ -8,7 +8,7 @@ Besides iOS development, I work with Flutter in parallel projects using FlutterF
 
 [![Linkedin Badge](https://img.shields.io/badge/-luizmellodev-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/luizmellodev/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@luizmello.dev-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:contato@luizmello.dev)
-[![Instagram Badge](https://img.shields.io/badge/-@luizmello.dev-white?style=plastic-square&logo=Instagram&logoColor=purple&link=mailto:mailharshkhatri@gmail.com)](mailto:contato@luizmello.dev)
+[![Instagram Badge](https://img.shields.io/badge/-@luizmello.dev-white?style=plastic-square&logo=Instagram&logoColor=purple&link=mailto:mailharshkhatri@gmail.com)](https://www.instagram.com/luizmello.dev/)
 
 
 
