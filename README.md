@@ -1,5 +1,3 @@
-![My personal banner](https://user-images.githubusercontent.com/49352785/210124497-118a40bd-2513-4ea5-b0dc-f494474acd85.png)
-
 # Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 I'm Luiz Mello, an iOS Software Engineer in love programming, technology, minimalism, UX/UI Design and coffeee ☕💜
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
