@@ -43,9 +43,6 @@ Besides iOS development, I work with Flutter in parallel projects using FlutterF
   - [Dev.to](https://dev.to/luizmellodev)
   - [Dribble](https://dribbble.com/luizreis)
   - [Instagram](https://www.instagram.com/luizmello.dev/)
- 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=luizmellodev.readme)
-
   </details>
   
   
