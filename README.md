@@ -9,7 +9,7 @@ Besides iOS development, Im learning Web development using Next and React and so
 [![Instagram Badge](https://img.shields.io/badge/-@luizmello.dev-white?style=plastic-square&logo=Instagram&logoColor=purple&link=mailto:mailharshkhatri@gmail.com)](https://www.instagram.com/luizmello.dev/)
 
 
-- 🔭 I’m currently working on [Poatek]([https://developeracademy.eldorado.org.br/poa/](https://poatek.com/)) as iOS Engineer.
+- 🔭 I’m currently working at [WillowTree / TELUS](https://www.telusdigital.com/about/locations/brazil?INTCMP=locations_panel-list_brazil) as iOS Engineer.
 - :ballot_box_with_check: My goal is to become a developer capable of solving real problems (=
 - ⚡ Curious fact: I have an Instagram account to share programming knowledge! Follow me if you want 😁 [@luizmello.dev](https://www.instagram.com/luizmello.dev/) (Portuguese content)
 
