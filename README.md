@@ -11,10 +11,6 @@ Besides iOS development, Im learning Web development using Next and React and so
 - 🔭 I’m currently working at [WillowTree / TELUS](https://www.telusdigital.com/about/locations/brazil?INTCMP=locations_panel-list_brazil) as iOS Engineer.
 - :ballot_box_with_check: My goal is to become a developer capable of solving real problems (=
 - ⚡ Curious fact: I have an Instagram account to share programming knowledge! Follow me if you want 😁 [@luizmello.dev](https://www.instagram.com/luizmello.dev/) (Portuguese content)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 </br>
 
 <details><summary><b>Tech Stack</b></summary>
