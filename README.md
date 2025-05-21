@@ -1,5 +1,5 @@
 # Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-I'm Luiz Mello, an iOS Engineer in love programming, technology, minimalism, UX/UI Design and coffeee ☕💜
+I'm Luiz Mello, an iOS Engineer in love programming, technology, minimalism, UX/UI Design and coffeee ☕
 
 Besides iOS development, Im learning Web development using Next and React and some projects in Python =)
 
