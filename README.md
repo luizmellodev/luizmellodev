@@ -33,9 +33,10 @@ Besides iOS development, Im learning Web development using Next and React and so
   - [Gmail](mailto:contato@luizmello.dev)
   - [Rocketseat](https://app.rocketseat.com.br/rocketid/luizmellodev)
   - [Instagram](https://www.instagram.com/luizmello.dev/)
+  </details>
 
-  - 
-Acesse meu portfólio em: 
+  
+GitFolio: 
 <a href="https://gitfollio.vercel.app/luizmellodev"> 🔗
   https://gitfollio.vercel.app/luizmellodev
 </a>
@@ -136,7 +137,5 @@ Acesse meu portfólio em:
 ]
 }
 GitFolio:end -->
-  
-  </details>
   
   
